@@ -1,1 +1,2 @@
-# This contain the jupter notebook for Kaggle Competition - Ames Housing Price 
+# Kaggle Competition - Ames Housing Price 
+- [] setup.py
